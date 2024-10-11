@@ -270,6 +270,7 @@ body {
 }
 
 .footer-right {
+    text-align: left;
     display: flex;
     gap: 60px;
 }
